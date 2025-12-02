@@ -304,10 +304,10 @@ export function ChatInterface() {
                     <Brain className="w-6 h-6 text-green-600" />
                   </div>
                   <h3 className="font-semibold text-gray-800 mb-1">
-                    Breathwork Healing
+                    Conscious Transformation
                   </h3>
                   <p className="text-sm text-gray-600">
-                    Certified coach guiding emotional release and self-discovery through conscious breathing, somatic, and shamanic practices.
+                    Transformation coach guiding leaders through somatic intelligence, identity shifts, and GrowthRadar™ for aligned performance.
                   </p>
                 </div>
 
@@ -364,10 +364,10 @@ export function ChatInterface() {
                       <Brain className="w-5 h-5 text-green-600" />
                     </div>
                     <h4 className="font-semibold text-gray-800 mb-1 text-sm">
-                      Breathwork Healing
+                      Conscious Transformation
                     </h4>
                     <p className="text-xs text-gray-600">
-                      Certified coach guiding emotional release and self-discovery through conscious breathing, somatic, and shamanic practices.
+                      Transformation coach guiding leaders through somatic intelligence, identity shifts, and GrowthRadar™ for aligned performance.
                     </p>
                   </div>
 

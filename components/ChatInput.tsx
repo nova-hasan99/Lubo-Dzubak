@@ -1078,7 +1078,7 @@ const handleLiveChatMessage = async (messageText: string) => {
           <div className="flex gap-2 mt-4 overflow-x-auto pb-2">
             {[
               'Hello! 👋',
-              'What hidden patterns are holding me back—and how do I break free?',
+              'How can conscious transformation help me grow?',
               'What can you do? 🤔',
             ].map((suggestion) => (
               <button
